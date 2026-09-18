@@ -23,9 +23,9 @@ Roblox Studio
      ↕
 Folder MyRobloxGame
      ↓
-git add / commit
+```bash git add ``` / commit
      ↓
-git push
+```bash git push ```
      ↓
 GitHub
      ↓
