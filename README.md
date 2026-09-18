@@ -29,3 +29,36 @@ git add scriptsgame
 git commit -m "Add gameplay scripts"
 git push
 ```
+
+
+## Lanjutan
+
+Jika di perlukan untuk terkoneksi
+```bash
+git pull --rebase origin main
+```
+Kalau selesai tanpa CONFLICT, lanjut:
+### Agar Sync
+```bash
+git push
+```
+### Untuk mengecek perubahan sebelum push, kamu bisa pakai:
+```bash
+git status
+```
+### Kalau mau lihat persis kode apa yang berubah:
+```bash
+git diff
+```
+
+## Perbedaan Lanjutan
+`scripts`      = Lobby
+
+`scriptsgame`  = Gameplay
+
+``Perbedaan Script adalah bagian Lobby,
+dan ScriptGame adalah bagian gameplay.
+Tepatnya dalam game punya 2 place.``
+
+# BY RYAN
+[Contact Me.](https://kaptenleaky@mail.com)
