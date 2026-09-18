@@ -23,14 +23,14 @@ Roblox Studio
      ↕
 Folder MyRobloxGame
      ↓
+### Upload perubahan ke GitHub
+
 ```bash
-git add / commit
-```
-     ↓
-```bash
+git add .
+git commit -m "Update Roblox project"
 git push
 ```
-     ↓
+
 GitHub
      ↓
 GPT membaca repo
