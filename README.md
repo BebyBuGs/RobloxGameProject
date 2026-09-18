@@ -18,19 +18,19 @@ For more help, check out [the Rojo documentation](https://rojo.space/docs).
 
 
 Roblox Studio
-     ↕
-    Rojo
-     ↕
-Folder MyRobloxGame
-     ↓
+      ↓
+Rojo Sync
+      ↓
+MyRobloxGame
+      ↓   
 ```bash
-git add / commit
-```
-     ↓
-```bash
+git add .
+git commit -m "Update Roblox project"
 git push
 ```
-     ↓
+GitHub
+      ↓
+GPT membaca project terbaru
 GitHub
      ↓
 GPT membaca repo
