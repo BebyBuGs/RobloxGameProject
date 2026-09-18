@@ -15,7 +15,7 @@ git commit -m "Update scripts"
 git push
 ```
 
-# Update Script (MAP LOBBY) to GitHub
+## Update Script (MAP LOBBY) to GitHub
 
 ```bash
 git add scripts
@@ -23,7 +23,7 @@ git commit -m "Update scripts"
 git push
 ```
 
-# Update Script (MAP GAMEPLAY) to GitHub
+## Update Script (MAP GAMEPLAY) to GitHub
 ```bash
 git add scriptsgame
 git commit -m "Add gameplay scripts"
