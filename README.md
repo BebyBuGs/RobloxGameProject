@@ -15,3 +15,18 @@ rojo serve
 ```
 
 For more help, check out [the Rojo documentation](https://rojo.space/docs).
+
+
+Roblox Studio
+     ↕
+    Rojo
+     ↕
+Folder MyRobloxGame
+     ↓
+git add / commit
+     ↓
+git push
+     ↓
+GitHub
+     ↓
+GPT membaca repo
